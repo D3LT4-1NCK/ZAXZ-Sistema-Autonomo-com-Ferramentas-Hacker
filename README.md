@@ -2,11 +2,11 @@
 Sistema autônomo em Python para automação de tarefas pessoais e varredura com ferramentas de reconhecimento. Desenvolvido para Linux.
 
 # 🖥️ Detalhes:
-**Versão:** _Em breve..._
+**Versão:** _Em breve..._<br>
 **Idioma:** _PT-BR-1.0_
 
 
-# ⚠️ Responsabilidades do Usuário:
+<big>⚠️ <b>Responsabilidades do Usuário:</b></big>
 - _Ao instalar ou utilizar este sistema, o usuário assume total responsabilidade pelo uso realizado. O uso indevido, não autorizado ou que viole leis locais pode resultar em consequências civis e criminais._
 - _Algumas ferramentas utilizadas pelo sistema podem possuir restrições legais em determinados países ou jurisdições (ex: Alemanha, Reino Unido, Finlândia e Índia). É responsabilidade do usuário verificar a legislação local antes da utilização._
 
