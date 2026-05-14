@@ -1,8 +1,6 @@
 # ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker
 Sistema autônomo em Python para automação de tarefas pessoais e varredura com ferramentas de reconhecimento. Desenvolvido para Linux.
 
----
-
 ## 🖥️ Detalhes:
 **Versão:** _Em breve..._
 **Idioma:** _PT-BR-1.0_
