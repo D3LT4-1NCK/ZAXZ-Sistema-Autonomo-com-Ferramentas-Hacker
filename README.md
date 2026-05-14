@@ -1,17 +1,19 @@
 # ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker
 Sistema autônomo em Python para automação de tarefas pessoais e varredura com ferramentas de reconhecimento. Desenvolvido para Linux.
 
-## 🖥️ Detalhes:
+# 🖥️ Detalhes:
 **Versão:** _Em breve..._
 **Idioma:** _PT-BR-1.0_
 
+---
 
-## ⚠️ Responsabilidades do Usuário:
+
+# ⚠️ Responsabilidades do Usuário:
 - _Ao instalar ou utilizar este sistema, o usuário assume total responsabilidade pelo uso realizado. O uso indevido, não autorizado ou que viole leis locais pode resultar em consequências civis e criminais._
 - _Algumas ferramentas utilizadas pelo sistema podem possuir restrições legais em determinados países ou jurisdições (ex: Alemanha, Reino Unido, Finlândia e Índia). É responsabilidade do usuário verificar a legislação local antes da utilização._
 
 
-## 📦 Requisitos:
+# 📦 Requisitos:
 - _Linux (Mint recomendado)._
 - _Monitor 1920x1080p (recomendado)._
 - _Whois._
@@ -24,15 +26,15 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 - _Hydra._
 
 
-## 🔧 Como Instalar:
+# 🔧 Como Instalar:
 - _Em breve..._
 
 
-## 🚀 Como Usar:
+# 🚀 Como Usar:
 - _Em breve..._
 
 
-## 💡 Conselhos e Avisos no Código:
+# 💡 Conselhos e Avisos no Código:
 - _Quando o sistema AutoGui for iniciar, não deixe o 'CapsLock' ativado; certifique-se de que ele esteja desligado._
 - _Quando o sistema AutoGui for iniciar, não deixe a janela do Terminal encaixada em um dos cantos da tela; mantenha o Terminal maximizado ou em janela solta; e não utilize o modo 'F11' (tela cheia)._
 
@@ -43,5 +45,6 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 > Modificar: Restrito - _Siga a instrução indicada ao lado, entre parenteses._
 > Modificar: Permitido - _Modificações estão liberadas, mas tenha atenção para não causar erros._
 
-## 🔨️ Desenvolvimento:
+
+# 🔨️ Desenvolvimento:
 - _Caso você tenha encontrado algum erro ou queira fazer uma sugestão, envie-me mensagem no Discord: floppzh_
