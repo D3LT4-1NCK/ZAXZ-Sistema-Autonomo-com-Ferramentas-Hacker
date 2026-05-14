@@ -5,8 +5,6 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 **Versão:** _Em breve..._
 **Idioma:** _PT-BR-1.0_
 
----
-
 
 # ⚠️ Responsabilidades do Usuário:
 - _Ao instalar ou utilizar este sistema, o usuário assume total responsabilidade pelo uso realizado. O uso indevido, não autorizado ou que viole leis locais pode resultar em consequências civis e criminais._
