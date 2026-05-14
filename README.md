@@ -6,6 +6,11 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 **Versão:** _Em breve..._<br>
 **Idioma:** _PT-BR-1.0_
 
+
+<big><big><big>🔨️ <b>Desenvolvimento:</b></big></big></big>
+
+- _Caso você tenha encontrado algum erro ou queira fazer uma sugestão, envie-me mensagem no Discord: floppzh_
+
 <big><big><big>⚠️ <b>Responsabilidades do Usuário:</b></big></big></big>
 
 - _Ao instalar ou utilizar este sistema, o usuário assume total responsabilidade pelo uso realizado. O uso indevido, não autorizado ou que viole leis locais pode resultar em consequências civis e criminais._
@@ -46,7 +51,3 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 > Modificar: Restrito - _Siga a instrução indicada ao lado, entre parenteses._
 >
 > Modificar: Permitido - _Modificações estão liberadas, mas tenha atenção para não causar erros._
-
-<big><big><big>🔨️ <b>Desenvolvimento:</b></big></big></big>
-
-- _Caso você tenha encontrado algum erro ou queira fazer uma sugestão, envie-me mensagem no Discord: floppzh_
