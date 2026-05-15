@@ -3,7 +3,7 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 
 <big><big><big>🖥️ <b>Detalhes:</b></big></big></big>
 
-**Versão:** _1.4 - BETA._ <br>
+**Versão:** _1.4 - BETA_ <br>
 **Idioma:** _PT-BR-1.0_
 - _Liberado para tradução desde que coloque desenvolvedor principal (floppzh)._
 
@@ -51,6 +51,7 @@ _- 8- E pronto! Basta digitar: `zaxz`_ <br>
 
 
 <big><big><big>🪛️ <b>Como atualizar:</b></big></big></big>
+
 _- Basta abrir o terminal e digitar: `rm -rf ~/ZAXZ\ SY && git clone https://github.com/D3LT4-1NCK/ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker ~/ZAXZ_TEMP && mv ~/ZAXZ_TEMP/ZAXZ\ SY ~/ && rm -rf ~/ZAXZ_TEMP`_
 
 
