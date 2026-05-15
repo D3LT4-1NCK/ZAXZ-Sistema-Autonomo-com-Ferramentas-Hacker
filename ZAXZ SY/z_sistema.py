@@ -1,5 +1,5 @@
 # CÓDIGO ORIGINAL - SISTEMA.
-# V.1.5 [BETA] - PT-BR-1.0.
+# V.1.6 [BETA] - PT-BR-1.0.
 # Discord do fundador: floppzh
 
 # ATENÇÃO: Ferramenta de automatação com ferramentas de ataque, use por sua conta e risco.
