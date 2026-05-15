@@ -1,5 +1,5 @@
 # CÓDIGO 5 - OPÇÃO 3
-# V.4 - Cada versão de cada código que não faça parte do sistema principal contribui em 0.1+ da versão principal.
+# V.5 - Cada versão de cada código que não faça parte do sistema principal contribui em 0.1+ da versão principal.
 # Possíveis retornos: 0, 1, 2, 4, 6
 
 # Bloco de inicialização:
@@ -43,7 +43,6 @@ try:
                 pyautogui.press("enter")
                 pyautogui.keyUp("alt")
                 pyautogui.hotkey("win", "left")
-                iniciar_temp() # 1
                 print_slow(verde() + "\nVamos começar o trabalho!\n")
                 pyautogui.click(x=1500, y=500)
                 if link.startswith("https://"):
@@ -83,13 +82,9 @@ try:
                 else:
                     ips = re.findall(r'\b(?!127)\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b', conteudo_ip)
                     print_slow(verde() + "\nIP/IPs coletados.\n")
-
-                if verificar_temp() == True: # 1
-                    return 4
                 
                 # DIG:
                 limpar_status()
-                iniciar_temp() # 2
 
                 pingar_falha_dig = None
                 pyautogui.write(rf'dig {novo_link} > ~/ZAXZ\ SY/ZAXZ\ FERRAMENTAS/ZAXZ\ DIG/RESULTADO_DIG.txt 2>&1 && echo "Sucesso" > ~/ZAXZ\ SY/0_STATUS.txt || echo "Falha" > ~/ZAXZ\ SY/0_STATUS.txt')
@@ -117,9 +112,6 @@ try:
                 else:
                     ips_reforce = re.findall(r'\b(?!127)\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b', conteudo_ip_2)
                     print_slow(verde() + "\nReforçamento de coleta de IP coletada.\n")
-
-                if verificar_temp() == True: # 2
-                    return 4
 
                 # Gobuster
                 limpar_status()
@@ -276,9 +268,6 @@ try:
                     print_slow(verde() + "\nPortas abertas do IP analisadas!\n")
                     for coisa, coisa2 in enumerate(nmapar):
                         nmapar[coisa] = coisa2.replace(" ", "").replace("open", "")
-
-                if verificar_temp() == True: # 3
-                    return 4
                 
                 # Whois:
                 pingar_falha_whois = None
@@ -316,9 +305,6 @@ try:
                     print_slow(verde() + "\nInformações gerais adquiridas!\n")
                     for coisa3, coisa4 in enumerate(whois):
                         whois[coisa3] = coisa4.replace("Country:", "").replace("\n", "").replace(" ", "")
-
-                if verificar_temp() == True: # 4
-                    return 4
 
                 # Sistema dos resultados IP:
                 # Modificar: Negado
@@ -394,7 +380,6 @@ try:
                 pyautogui.keyUp("alt")
                 pyautogui.hotkey("win", "left")
                 limpar_status()
-                iniciar_temp(segundos=40) # 5
                 print_slow(verde() + "\nVamos começar o trabalho!\n")
                 pyautogui.click(x=1500, y=500)
                 dormir(1)
@@ -428,9 +413,6 @@ try:
                     print_slow(verde() + "\nLugares onde o nick está logado identificados!\n")
                     for coisa, coisa2 in enumerate(sherlockar):
                         sherlockar[coisa] = coisa2.replace("[+] ", "")
-
-                if verificar_temp() == True: # 5
-                    return 4
                 
                 # Sistema dos resultados USER:
                 # Modificar: Negado
@@ -671,3 +653,4 @@ except Exception as erro_cruel_d_três:
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V2.
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V3.
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V4.
+# VERIFICADO: TUDO CERTO - ATUALIZADO - V5.
