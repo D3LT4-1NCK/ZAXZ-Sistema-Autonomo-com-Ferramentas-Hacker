@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="ZAXZ SY IMAGEM" src="https://github.com/user-attachments/assets/6187d570-2d5e-4f6d-9238-a7dc224fadcc" />
 # ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker
 Sistema autônomo em Python para automação de tarefas pessoais e varredura com ferramentas de reconhecimento. Desenvolvido para Linux.
 
