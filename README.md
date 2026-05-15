@@ -5,10 +5,13 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 
 **Versão:** _Em breve..._<br>
 **Idioma:** _PT-BR-1.0_
+- _Liberado para tradução desde que coloque desenvolvedor principal (floppzh)._
 
 
 <big><big><big>🔨️ <b>Desenvolvimento:</b></big></big></big>
 
+- _Esse é meu primeiro grande projeto, eu nunca passei de 500 linhas em um único sistema; caso encontre coisas fora do comum, você sabe o motivo._
+- _O sistema não cria nenhuma ferramenta sobre hacking, ele apenas usa as já existentes e te entrega o que importa de forma organizada._
 - _Caso você tenha encontrado algum erro ou queira fazer uma sugestão, envie-me mensagem no Discord: floppzh_
 
 <big><big><big>⚠️ <b>Responsabilidades do Usuário:</b></big></big></big>
@@ -35,7 +38,8 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 
 <big><big><big>🚀 <b>Como Usar:</b></big></big></big>
 
-- _Em breve..._
+- _Modifique os códigos: 'b_um.py' e 'c_dois.py', ambos só funcionarão se você programa-los conforme as orientações escritas neles._
+- _Não modifique nada dos arquivos desse sistema, nem mesmo os nomes, não altere a localização do arquivo 'ZAXZ SY', caso contrário, acontecerá uma sequência de erros._
 
 <big><big><big>💡 <b>Conselhos e Avisos no Código:</b></big></big></big>
 
