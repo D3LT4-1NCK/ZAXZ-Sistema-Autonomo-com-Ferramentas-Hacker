@@ -1,5 +1,5 @@
 # CÓDIGO ORIGINAL - SISTEMA.
-# V.1.4 [BETA] - PT-BR-1.0.
+# V.1.5 [BETA] - PT-BR-1.0.
 # Discord do fundador: floppzh
 
 # ATENÇÃO: Ferramenta de automatação com ferramentas de ataque, use por sua conta e risco.
@@ -66,11 +66,17 @@ def iniciar(nome=None):
     try:
         if len(nome) >= 28 or len(nome) <= 1:
             nome = "host"
+            with open(os.path.expanduser("~/ZAXZ SY/0_NOME.txt"), "w"):
+                pass
     except Exception:
         if isinstance(nome, int):
             nome = "host"
+            with open(os.path.expanduser("~/ZAXZ SY/0_NOME.txt"), "w"):
+                pass
         elif nome == None:
             nome = "host"
+            with open(os.path.expanduser("~/ZAXZ SY/0_NOME.txt"), "w"):
+                pass
     
     # Tela inicial:
     print_slow(branco() + f"\nBoas vindas, {nome.title()}.\nIniciando programa na data de: " + data)
