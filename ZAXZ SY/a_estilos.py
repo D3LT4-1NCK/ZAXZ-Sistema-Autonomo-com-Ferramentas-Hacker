@@ -1,6 +1,6 @@
 # CÓDIGO 2 - ESTILOS.
 # Possíveis retornos: 0, 1
-# V.5 - Cada versão de cada código que não faça parte do sistema principal contribui em 0.1+ da versão principal.
+# V.6 - Cada versão de cada código que não faça parte do sistema principal contribui em 0.1+ da versão principal.
 
 try:
     from z_bibliotecas import *
@@ -142,7 +142,7 @@ try:
     # Verificar se o pyautogui está dando certo:
     # Modificar: Negado
     verificar_ausencia = False
-    def iniciar_temp(segundos=10):
+    def iniciar_temp(segundos=10): # Não está em uso, apresenta mal funcionamento.
         def checar():
             global verificar_ausencia
             with open(os.path.expanduser("~/ZAXZ SY/0_STATUS.txt"), "r") as arquivo:
@@ -150,7 +150,7 @@ try:
                     verificar_ausencia = True
         threading.Timer(segundos, checar).start()
 
-    def verificar_temp():
+    def verificar_temp():  # Não está em uso, apresenta mal funcionamento.
         try:
             global verificar_ausencia
             if verificar_ausencia == True:
@@ -161,7 +161,7 @@ try:
             pass
     
     # Limpador de STATUS:
-    # Modificar: Proibido
+    # Modificar: Negado
     def limpar_status():
         with open(os.path.expanduser("~/ZAXZ SY/0_STATUS.txt"), "w"):
             pass
@@ -198,3 +198,4 @@ except Exception as erro_estilos:
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V3.
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V4.
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V5.
+# VERIFICADO: TUDO CERTO - ATUALIZADO - V6.
