@@ -41,9 +41,9 @@ _- 3- Agora, se você usa BASH, digite: `nano ~/.bashrc`_ <br>
 _- 3- Já se você usa ZSH, digite: `nano ~/.zshrc`_ <br>
 
 _- 4- Desça o máximo que puder e coloque:_ <br>
-`zaxz() {
-    python3 ~/ZAXZ\ SY/z_sistema.py
-}`
+`zaxz() {` <br>
+`   python3 ~/ZAXZ\ SY/z_sistema.py` <br>
+`}` <br>
 _- 5- Aperte 'CTRL' + 'X', depois 'S' ou 'Y' e por fim 'Enter'._ <br>
 _- 6- Novamente, se você usa BASH, digite: `source ~/.bashrc`_ <br>
 _- 7- No entanto, se você usa ZSH, digite: `source ~/.zshrc`_ <br>
