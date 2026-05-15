@@ -151,8 +151,8 @@ try:
 
     def verificar_temp():
         try:
+            global verificar_ausencia
             if verificar_ausencia == True:
-                global verificar_ausencia
                 print_slow(vermelho() + "\n\nErro: Ausência de informações.\n\n")
                 verificar_ausencia = False # Se não ficar eterno em "True"
                 return True
