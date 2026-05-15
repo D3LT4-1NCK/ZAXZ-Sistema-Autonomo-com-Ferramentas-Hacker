@@ -34,7 +34,7 @@ except Exception as erro:
     print(f"\nDetalhes do erro: {erro}.\n")
     exit()
 
-arquivos = ["z_bibliotecas.py", "a_estilos.py", "b_um.py", "c_dois.py", "d_três.py", "e_quatro.py", "f_cinco.py", "0_ZAXZ DIR.txt","ZAXZ FERRAMENTAS"]
+arquivos = ["z_bibliotecas.py", "a_estilos.py", "b_um.py", "c_dois.py", "d_tres.py", "e_quatro.py", "f_cinco.py", "0_ZAXZ DIR.txt","ZAXZ FERRAMENTAS"]
 if os.path.exists(os.path.expanduser("~/ZAXZ SY/a_estilos.py")):
     for coisa in arquivos:
         if not os.path.exists(os.path.expanduser(f"~/ZAXZ SY/{coisa}")):
