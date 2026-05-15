@@ -72,7 +72,7 @@ try:
         print_slow(vermelho() + "\nImpossível abrir a força, tente outros comandos.\n")
 
     def reinstale_o_sistema():
-        print_slow(azul() + "\nPara reinstalar o sistema, coloque isso no terminal: 'tentar apagar a pasta atual e depois baixar a atualizada (do github)'.\n")
+        print_slow(azul() + "\nPara reinstalar o sistema, coloque isso no terminal: rm -rf ~/ZAXZ\ SY && git clone https://github.com/D3LT4-1NCK/ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker ~/ZAXZ_TEMP && mv ~/ZAXZ_TEMP/ZAXZ\ SY ~/ && rm -rf ~/ZAXZ_TEMP\n")
         print_slow(branco() + "\nCaso queira reportar esse erro, o discord do fundador é: 'floppzh'.\n")
         print_slow(branco() + "\nLembre-se que esse sistema foi criado em um Linux Mint, não há certeza do funcionamento em outros distros.\n") 
         exit()
