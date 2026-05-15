@@ -1,5 +1,5 @@
 # CÓDIGO 5 - OPÇÃO 3
-# V.3 - Cada versão de cada código que não faça parte do sistema principal contribui em 0.1+ da versão principal.
+# V.4 - Cada versão de cada código que não faça parte do sistema principal contribui em 0.1+ da versão principal.
 # Possíveis retornos: 0, 1, 2, 4, 6
 
 # Bloco de inicialização:
@@ -585,6 +585,8 @@ try:
 
                             if confirmar_ip.capitalize() in ("S","Sim"):
                                 chamada_ip = ip(ip_alvo=pingar_ip)
+                                if chamada_ip == 4:
+                                    return 4
                                 while True:
                                     novamente_ip = input_slow(branco() + "\nVocê quer continuar usando essas ferramentas (S/N): ").strip()
                                     if novamente_ip.capitalize() in ("S","Sim"):
@@ -620,6 +622,8 @@ try:
 
                             if confirmar_nick.capitalize() in ("S","Sim"):
                                 chamada_user = user(nick=pingar_nick)
+                                if chamada_user == 4:
+                                    return 4 
                                 while True:
                                     novamente_nick = input_slow(branco() + "\nVocê quer continuar usando essas ferramentas (S/N): ").strip()
                                     if novamente_nick.capitalize() in ("S","Sim"):
@@ -666,3 +670,4 @@ except Exception as erro_cruel_d_três:
 # VERIFICADO: TUDO CERTO - FINALIZADO - V1.
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V2.
 # VERIFICADO: TUDO CERTO - ATUALIZADO - V3.
+# VERIFICADO: TUDO CERTO - ATUALIZADO - V4.
