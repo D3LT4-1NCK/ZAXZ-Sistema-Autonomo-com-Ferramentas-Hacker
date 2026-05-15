@@ -3,7 +3,7 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 
 <big><big><big>🖥️ <b>Detalhes:</b></big></big></big>
 
-**Versão:** _1.4 - BETA._<br>
+**Versão:** _1.4 - BETA._ <br>
 **Idioma:** _PT-BR-1.0_
 - _Liberado para tradução desde que coloque desenvolvedor principal (floppzh)._
 
@@ -34,20 +34,20 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 
 <big><big><big>🔧 <b>Como Instalar:</b></big></big></big>
 
-_- 1- Abra o terminal._
-_- 2- Digite: `git clone https://github.com/D3LT4-1NCK/ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker ~/ZAXZ_TEMP && mv ~/ZAXZ_TEMP/ZAXZ\ SY ~/ && rm -rf ~/ZAXZ_TEMP`_
+_- 1- Abra o terminal._ <br>
+_- 2- Digite: `git clone https://github.com/D3LT4-1NCK/ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker ~/ZAXZ_TEMP && mv ~/ZAXZ_TEMP/ZAXZ\ SY ~/ && rm -rf ~/ZAXZ_TEMP`_ <br>
 
-_- 3- Agora, se você usa BASH, digite: `nano ~/.bashrc`_
-_- 3- Já se você usa ZSH, digite: `nano ~/.zshrc`_
+_- 3- Agora, se você usa BASH, digite: `nano ~/.bashrc`_ <br>
+_- 3- Já se você usa ZSH, digite: `nano ~/.zshrc`_ <br>
 
-_- 4- Desça o máximo que puder e coloque:_
+_- 4- Desça o máximo que puder e coloque:_ <br>
 `zaxz() {
     python3 ~/ZAXZ\ SY/z_sistema.py
 }`
-_- 5- Aperte 'CTRL' + 'X', depois 'S' ou 'Y' e por fim 'Enter'._
-_- 6- Novamente, se você usa BASH, digite: `source ~/.bashrc`_
-_- 7- No entanto, se você usa ZSH, digite: `source ~/.zshrc`_
-_- 8- E pronto! Basta digitar: `zaxz`_
+_- 5- Aperte 'CTRL' + 'X', depois 'S' ou 'Y' e por fim 'Enter'._ <br>
+_- 6- Novamente, se você usa BASH, digite: `source ~/.bashrc`_ <br>
+_- 7- No entanto, se você usa ZSH, digite: `source ~/.zshrc`_ <br>
+_- 8- E pronto! Basta digitar: `zaxz`_ <br>
 
 
 <big><big><big>🪛️ <b>Como atualizar:</b></big></big></big>
