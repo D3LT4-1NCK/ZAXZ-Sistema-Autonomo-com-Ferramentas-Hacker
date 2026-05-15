@@ -219,7 +219,7 @@ try:
                                 anotar.write(f"{informacoes}")
                             print_slow(verde() + "\nCriado com sucesso.\n")
                             while True:
-                                novamente_2 = input_slow(branco() + "\nQuer fazer mais um (S/N): \n").strip().capitalize()
+                                novamente_2 = input_slow(branco() + "\nQuer fazer mais um (S/N): ").strip().capitalize()
                                 if novamente_2 in cancelar or novamente_2 in ("N","Nao","Não"):
                                     return 0 # Sucesso
                                 elif novamente_2 in ("S","Sim"):
