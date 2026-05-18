@@ -3,7 +3,7 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 
 <big><big><big>🖥️ <b>Detalhes:</b></big></big></big>
 
-**Versão:** _1.4 - BETA_ <br>
+**Versão:** _1.5 - BETA_ <br>
 **Idioma:** _PT-BR-1.0_
 - _Liberado para tradução desde que coloque desenvolvedor principal (floppzh)._
 
