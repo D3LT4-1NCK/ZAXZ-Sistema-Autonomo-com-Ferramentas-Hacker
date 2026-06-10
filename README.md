@@ -1,4 +1,4 @@
-# ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker
+# ZAXZ Sistema Autonomo com Ferramentas Hacker
 Sistema autônomo em Python para automação de tarefas pessoais e varredura com ferramentas de reconhecimento. Desenvolvido para Linux.
 
 <big><big><big>🖥️ <b>Detalhes:</b></big></big></big>
@@ -46,9 +46,9 @@ _- 4- Desça o máximo que puder e coloque:_ <br>
 `}` <br>
 _- 5- Aperte 'CTRL' + 'X', depois 'S' ou 'Y' e por fim 'Enter'._ <br>
 _- 6- Novamente, se você usa BASH, digite: `source ~/.bashrc`_ <br>
-_- 7- No entanto, se você usa ZSH, digite: `source ~/.zshrc`_ <br>
-_- 8- E pronto! Basta digitar: `zaxz`_ <br>
-_- Atenção: Caso o passo 8 não tenha funcionado, feche e abra o terminal, e digite `zaxz`_ <br>
+_- 6- No entanto, se você usa ZSH, digite: `source ~/.zshrc`_ <br>
+_- 7- E pronto! Basta digitar: `zaxz`_ <br>
+_- Atenção: Caso o passo 7 não tenha funcionado, feche e abra o terminal, e digite `zaxz`_ <br>
 
 
 <big><big><big>🪛️ <b>Como atualizar:</b></big></big></big>
