@@ -35,7 +35,7 @@ Sistema autônomo em Python para automação de tarefas pessoais e varredura com
 <big><big><big>🔧 <b>Como Instalar:</b></big></big></big>
 
 _- 1- Abra o terminal._ <br>
-_- 2- Digite: `git clone https://github.com/D3LT4-1NCK/ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker ~/"ZAXZ SY"`_ <br>
+_- 2- Digite: `git clone https://github.com/D3LT4-1NCK/ZAXZ-Sistema-Autonomo-com-Ferramentas-Hacker ~/ZAXZ_TEMP && mv ~/ZAXZ_TEMP/ZAXZ\ SY ~/ && rm -rf ~/ZAXZ_TEMP`_ <br>
 
 _- 3- Agora, se você usa BASH, digite: `nano ~/.bashrc`_ <br>
 _- 3- Já se você usa ZSH, digite: `nano ~/.zshrc`_ <br>
